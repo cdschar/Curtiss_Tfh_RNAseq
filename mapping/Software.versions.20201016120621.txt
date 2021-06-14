@@ -1,0 +1,20 @@
+$skewer
+[1] "\tskewer version: 0.2.2"      "\tAuthor: Hongshan Jiang"    
+[3] "\tLast update: April 4, 2016"
+
+$fastqc
+[1] "FastQC v0.11.4"
+
+$STAR
+[1] "STAR_2.5.3a_modified"
+
+$samtools
+[1] "samtools 1.5"                           
+[2] "Using htslib 1.5"                       
+[3] "Copyright (C) 2017 Genome Research Ltd."
+
+$MarkDuplicates
+[1] "1.127(6fd825a0b7c45834d5cc2eb92983322faa72e4d3_1418936317)"
+attr(,"status")
+[1] 1
+

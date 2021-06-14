@@ -1,0 +1,33 @@
+R version 3.5.2 (2018-12-20)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: macOS Mojave 10.14.3
+
+Matrix products: default
+BLAS: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRblas.0.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/3.5/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats4    parallel  stats     graphics  grDevices utils     datasets 
+[8] methods   base     
+
+other attached packages:
+ [1] data.table_1.12.8           chipseq_1.32.0             
+ [3] ShortRead_1.40.0            GenomicAlignments_1.18.1   
+ [5] SummarizedExperiment_1.12.0 DelayedArray_0.8.0         
+ [7] matrixStats_0.56.0          Biobase_2.42.0             
+ [9] BiocParallel_1.16.6         Rsamtools_1.34.1           
+[11] BSgenome_1.50.0             rtracklayer_1.42.2         
+[13] GenomicRanges_1.34.0        GenomeInfoDb_1.18.2        
+[15] Biostrings_2.50.2           XVector_0.22.0             
+[17] IRanges_2.16.0              S4Vectors_0.20.1           
+[19] BiocGenerics_0.28.0        
+
+loaded via a namespace (and not attached):
+ [1] zlibbioc_1.28.0        lattice_0.20-41        hwriter_1.3.2         
+ [4] tools_3.5.2            grid_3.5.2             latticeExtra_0.6-28   
+ [7] Matrix_1.2-18          GenomeInfoDbData_1.2.0 RColorBrewer_1.1-2    
+[10] bitops_1.0-6           RCurl_1.95-4.12        compiler_3.5.2        
+[13] XML_3.98-1.20         
